@@ -1,7 +1,7 @@
 # DCGN
 
 Deep learning approach for cancer subtype classification using high-dimensional gene expression data
-It is built with **Tensorflow ** and **Python 3**.
+It is built with **Tensorflow** and **Python 3**.
 
 
 ## Requirements
@@ -11,7 +11,7 @@ It is built with **Tensorflow ** and **Python 3**.
 
 ## Codes
 
-  * DCGN.ipynb
+  * DCGN-new.ipynb
   * Comparative methods.ipynb
 
 
@@ -42,3 +42,4 @@ It is built with **Tensorflow ** and **Python 3**.
 2. Define the training and validation steps
 3. Defining and dividing the dataset
 4. Perform training and validation steps in a loop
+5. After the training and validation steps, the model is finally evaluated on the test set.
